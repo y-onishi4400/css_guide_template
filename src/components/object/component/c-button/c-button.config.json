@@ -1,0 +1,32 @@
+{
+  "title": "ボタン",
+  "preview": "@preview-title",
+  "context": {
+    "category": "--primary",
+    "titleText": "プライマリーボタン"
+
+  },
+  "variants": [
+    {
+      "name": "secondary",
+      "context": {
+        "category": "--secondary",
+        "titleText": "セカンダリーボタン"
+      }
+    },
+    {
+      "name": "facebook",
+      "context": {
+        "category": "--facebook",
+        "titleText": "facebookログインボタン"
+      }
+    },
+    {
+      "name": "tertiary",
+      "context": {
+        "category": "--tertiary",
+        "titleText": "サードボタン"
+      }
+    }
+  ]
+}

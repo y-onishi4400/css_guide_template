@@ -1,0 +1,25 @@
+{
+  "title": "スイッチ",
+  "preview": "@preview-title",
+  "context": {
+    "category": "--circle",
+    "titleText": "デフォルトスイッチ"
+
+  },
+  "variants": [
+    {
+      "name": "square",
+      "context": {
+        "category": "--square",
+        "titleText": "四角スイッチ"
+      }
+    },
+    {
+      "name": "light",
+      "context": {
+        "category": "--light",
+        "titleText": "ライトスイッチ"
+      }
+    }
+  ]
+}
